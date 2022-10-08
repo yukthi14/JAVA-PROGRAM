@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import static java.lang.Math.min;
-
 public class DIJKSTRA
 {
     int n;
